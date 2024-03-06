@@ -3,4 +3,4 @@
 Cientifico de Datos con formación en Ingeniería Mecánica, y amplios conocimientos en Matemáticas y Estadística.
 
 <h2>Mis Proyectos</h2>
-- [ETL, Visualización de Datos, SQL y Python.](https://github.com/neilbenavides)
+- [ETL, Visualización de Datos, SQL y Python](https://github.com/neilbenavides)
